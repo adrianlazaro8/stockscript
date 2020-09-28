@@ -1,0 +1,24 @@
+{
+	"email": {
+		"host": "smtp-mail.outlook.com",
+		"from": "modusantamaria@hotmail.com",
+		"password": "vanuatu5",
+		"to": "carlosdss84@gmail.com"
+	},
+	"products": [
+		{
+			"productId": "152876",
+			"catalogRefId": "2017323",
+			"name": "pesa rusa 20kg",
+			"link": "https://www.decathlon.es/es/p/kettlebell-20-kg-cross-training-musculacion-domyos-negro-rojo/_/R-p-152876?mc=8354819&c=NEGRO",
+			"outOfStock": true
+		},
+		{
+			"productId": "311044",
+			"catalogRefId": "2883009",
+			"name": "camiseta",
+			"link": "https://www.decathlon.es/es/p/camiseta-manga-corta-fitness-hombre-500-regular-rojo/_/R-p-311044?mc=8561989&c=NEGRO",
+			"outOfStock": true
+		}
+	]
+}
